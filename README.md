@@ -2,6 +2,9 @@
 
 Machine Learning model to anticipate and classify the severity of any airplane accident based on past incidents
 
+Public Rank - 386
+
+Leaderboard: https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/leaderboard/how-severe-can-an-airplane-accident-be-03e7a3f1/
 
 # Data Description:
 
